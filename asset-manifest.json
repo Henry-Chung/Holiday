@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/holiday/static/css/main.110f8478.chunk.css",
+    "main.js": "/holiday/static/js/main.7cb163ec.chunk.js",
+    "main.js.map": "/holiday/static/js/main.7cb163ec.chunk.js.map",
+    "runtime~main.js": "/holiday/static/js/runtime~main.27729716.js",
+    "runtime~main.js.map": "/holiday/static/js/runtime~main.27729716.js.map",
+    "static/css/2.86aa6515.chunk.css": "/holiday/static/css/2.86aa6515.chunk.css",
+    "static/js/2.611f6828.chunk.js": "/holiday/static/js/2.611f6828.chunk.js",
+    "static/js/2.611f6828.chunk.js.map": "/holiday/static/js/2.611f6828.chunk.js.map",
+    "index.html": "/holiday/index.html",
+    "precache-manifest.beb20127297c55beea9e7e6a9adf9835.js": "/holiday/precache-manifest.beb20127297c55beea9e7e6a9adf9835.js",
+    "service-worker.js": "/holiday/service-worker.js",
+    "static/css/2.86aa6515.chunk.css.map": "/holiday/static/css/2.86aa6515.chunk.css.map",
+    "static/css/main.110f8478.chunk.css.map": "/holiday/static/css/main.110f8478.chunk.css.map",
+    "static/media/fsulogo.png": "/holiday/static/media/fsulogo.6225300c.png"
+  }
+}
